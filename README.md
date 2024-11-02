@@ -19,6 +19,7 @@ This project is practical for any application requiring an extra layer of securi
 ## Tools
 
 Jupyter Lab
+
 ## Functions and Libraries used
 
 - import secrets – To generate cryptographically strong random OTP.
@@ -38,5 +39,5 @@ For detailed information of the functions kindly use the link below -
 
 ## Feedback
 
-If you have any feedback or suggestions, please reach out to me at panada.loknath45.com
+If you have any feedback or suggestions, please reach out to me at panada.loknath45.gmail.com
 
